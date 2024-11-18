@@ -23229,6 +23229,18 @@ a.categoryButton.green {
   background: linear-gradient(to right, #18e7ae, #1eebeb);
   background-size: 200%;
 }
+a.categoryButton.orange {
+  background: linear-gradient(to right, #eabd41, #90eb2e);
+  background-size: 200%;
+}
+a.categoryButton.colorful {
+  background: linear-gradient(to right,  #d57eeb 0%, #fccb90 100%);
+  background-size: 200%;
+}
+a.categoryButton.ptj {
+  background: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+  background-size: 200%;
+}
 
 .categoryItem:hover {
   width: 50%;
